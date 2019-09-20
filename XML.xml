@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="XSLT1.xslt"?>
+<?xml-stylesheet type="text/xsl" href="XSLT2.xslt"?>
+<!DOCTYPE Adresar SYSTEM "dtd.dtd">
+<Adresar>
+  <Osoba id="NRT141/16">
+    <PunoIme>
+      <Ime>Damjan</Ime>
+      <SrednjeIme></SrednjeIme>
+      <Prezime>Markovic</Prezime>
+    </PunoIme>
+    <DatumRodjenja>
+      <Dan>19.</Dan>
+      <Mesec>2.</Mesec>
+      <Godina>1998.</Godina>
+    </DatumRodjenja>
+    <Adresa tip="stalna">
+      <Ulica>Gospodara Aleksandra Vucica</Ulica>
+      <Broj>1</Broj>
+      <Grad>Beograd</Grad>
+      <Drzava>Srbija</Drzava>
+    </Adresa>
+    <Telefon tip="mobilni">064 456 645</Telefon>
+    <Email tip="privatni"> primer@gmail.com</Email>
+  </Osoba>
+
+  <Osoba id="2134dw">
+    <PunoIme>
+      <Ime>Nikola</Ime>
+      <SrednjeIme>Marko</SrednjeIme>
+      <Prezime>Bajcetic</Prezime>
+    </PunoIme>
+    <DatumRodjenja>
+      <Dan>15.</Dan>
+      <Mesec>3.</Mesec>
+      <Godina>1981.</Godina>
+    </DatumRodjenja>
+    <Adresa tip="stalna">
+      <Ulica>Stevana Sindjelica</Ulica>
+      <Broj>20</Broj>
+      <Grad>Beograd</Grad>
+      <Drzava>Srbija</Drzava>
+    </Adresa>
+    <Telefon tip="mobilni">063 346 635</Telefon>
+    <Email tip="privatni"> nikola11@gmail.com</Email>
+    <Email tip="sluzbeni">markonike@gmail.com</Email>
+    <Email tip="privatni">markocar@gmail.com</Email>
+  </Osoba>
+
+  <Osoba id="7336">
+    <PunoIme>
+      <Ime>Aleksandar</Ime>
+      <SrednjeIme>AcaSrbin</SrednjeIme>
+      <Prezime>Vucic</Prezime>
+    </PunoIme>
+    <DatumRodjenja>
+      <Dan>14.</Dan>
+      <Mesec>6.</Mesec>
+      <Godina>1973.</Godina>
+    </DatumRodjenja>
+    <Adresa tip="stalna">
+      <Ulica>Bulevar kralja Aleksandra</Ulica>
+      <Broj>3</Broj>
+      <Grad>Beograd</Grad>
+      <Drzava>Srbija</Drzava>
+    </Adresa>
+    <Telefon tip="mobilni">063 126 241</Telefon>
+    <Email tip="privatni"> acacar@gmail.com</Email>
+    <Email tip="sluzbeni">acaviser@gmail.com</Email>
+  </Osoba>
+
+  <Kompanija id="random123">
+    <Naziv>Delta Express</Naziv>
+    <Adresa tip="stalna">
+      <Ulica>Miroslava Ilica</Ulica>
+      <Broj>23</Broj>
+      <Grad>Beograd</Grad>
+      <Drzava>Srbija</Drzava>
+    </Adresa>
+    <Telefon tip="mobilni">064 456 342</Telefon>
+    <Email tip="sluzbeni">primerak@gmail.com</Email>
+    <Email tip="sluzbeni">primerak2@gmail.com</Email>
+    <Email tip="sluzbeni">primerak3@gmail.com</Email>
+  </Kompanija>
+
+  <Kompanija id="random4325">
+    <Naziv>Vrh Kompanija</Naziv>
+    <Adresa tip="stalna">
+      <Ulica>Mite Ruzica</Ulica>
+      <Broj>5</Broj>
+      <Grad>Kragujevac</Grad>
+      <Drzava>Srbija</Drzava>
+    </Adresa>
+    <Telefon tip="fiksni">011 3410 534</Telefon>
+    <Email tip="sluzbeni">vrh@gmail.com</Email>
+  </Kompanija>
+
+  <Kompanija id="3243">
+    <Naziv>M Company</Naziv>
+    <Adresa tip="stalna">
+      <Ulica>Vojvode Stepe</Ulica>
+      <Broj>23</Broj>
+      <Grad>Beograd</Grad>
+      <Drzava>Srbija</Drzava>
+    </Adresa>
+    <Telefon tip="fiksni">011 343 323</Telefon>
+    <Email tip="sluzbeni">viser@gmail.com</Email>
+  </Kompanija>
+</Adresar>
